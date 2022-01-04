@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterator_composite_lab", "iterator_composite_lab\iterator_composite_lab.csproj", "{4B6671FE-2602-46CF-A3CE-64DE4655F345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6671FE-2602-46CF-A3CE-64DE4655F345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6671FE-2602-46CF-A3CE-64DE4655F345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6671FE-2602-46CF-A3CE-64DE4655F345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6671FE-2602-46CF-A3CE-64DE4655F345}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F40250-4438-4775-AF00-BE1C5C7C8F03}
+	EndGlobalSection
+EndGlobal
